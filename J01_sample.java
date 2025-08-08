@@ -1,5 +1,4 @@
-
-public class Sample{
+public class J01_sample{
 	public static void main(String[] args){ // main method
 		System.out.print("\tI love pizza");
 		System.out.println("\"It's really good!");
